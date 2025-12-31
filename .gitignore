@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# Node.js
+node_modules/
+
+# Java Maven
+target/
+
+# VS Code
+.vscode/
